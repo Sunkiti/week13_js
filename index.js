@@ -8,7 +8,7 @@ let messengersTime = 128;
 let photoLike = 254;
 let vkRead = 137;
 let youtubeStandUp = 201;
-console.log(`Русалка прокрастинировала ${(messengersTime + photoLike + VKread + YoutubeStandUp) / 60} часов`);
+console.log(`Русалка прокрастинировала ${(messengersTime + photoLike + vkRead + youtubeStandUp) / 60} часов`);
 console.log(2 ** 5);
 console.log(`Нужно бежать со всех ног, чтобы только оставаться на месте, а чтобы куда-то попасть, надо бежать как минимум вдвое быстрее!`);
 const greetings = "Привет";
